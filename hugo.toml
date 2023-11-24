@@ -1,0 +1,4 @@
+baseURL = 'https://ILYASELBAKKALI2.github.io/hugo-ilyas/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
