@@ -8,21 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Nov 2023 09:58:03 +0100</lastBuildDate><atom:link href="https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mon Article</title>
+      <title>ILYAS EL BAKKALI</title>
       <link>https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/posts/mon-article2/</link>
       <pubDate>Fri, 24 Nov 2023 09:58:03 +0100</pubDate>
       
       <guid>https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/posts/mon-article2/</guid>
-      <description>This is a test page1 This is a test pages1</description>
+      <description>mastére cto et tech lead Titulaire d&amp;rsquo;une licence en génie informatique et actuellement en prépa mastère digital à HETIC, mon projet d&amp;rsquo;étude est d&amp;rsquo;intégrer le Master CTO and Tech Lead à HETIC afin de parfaire mes compétences en développement web.</description>
     </item>
     
     <item>
-      <title>Mon Article</title>
-      <link>https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/posts/mon-article/</link>
+      <title>La présentation de mon projet hugo</title>
+      <link>https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/posts/mon-aricle3/</link>
       <pubDate>Fri, 24 Nov 2023 09:58:03 +0100</pubDate>
       
-      <guid>https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/posts/mon-article/</guid>
-      <description>This is a test page This is a test pages</description>
+      <guid>https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/posts/mon-aricle3/</guid>
+      <description>Mon Projet Hugo Introduction Je suis ravi de présenter mon projet Hugo, où j&amp;rsquo;ai appliqué les compétences acquises pour développer un site web complet, le personnaliser et le déployer sur GitHub Pages. Ce projet témoigne de ma compréhension pratique des techniques apprises et de ma capacité à les appliquer de manière créative.
+Objectif du Projet Mon objectif était de créer un site web complet en utilisant Hugo. J&amp;rsquo;ai décidé d&amp;rsquo;opter pour un blog personnel pour partager mes expériences et découvertes en matière de développement web.</description>
     </item>
     
   </channel>
