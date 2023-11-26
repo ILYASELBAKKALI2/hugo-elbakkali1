@@ -9,6 +9,15 @@
     <lastBuildDate>Fri, 24 Nov 2023 09:58:03 +0100</lastBuildDate><atom:link href="https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mon Article</title>
+      <link>https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/posts/mon-article2/</link>
+      <pubDate>Fri, 24 Nov 2023 09:58:03 +0100</pubDate>
+      
+      <guid>https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/posts/mon-article2/</guid>
+      <description>This is a test page1 This is a test pages1</description>
+    </item>
+    
+    <item>
+      <title>Mon Article</title>
       <link>https://ILYASELBAKKALI2.github.io/hugo-elbakkali1/posts/mon-article/</link>
       <pubDate>Fri, 24 Nov 2023 09:58:03 +0100</pubDate>
       
